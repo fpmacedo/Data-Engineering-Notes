@@ -36,3 +36,6 @@ Additional Resources:
 Here is the [DataStax](https://docs.datastax.com/en/archived/cql/3.3/cql/cql_using/useCompoundPrimaryKeyConcept.html) documentation on Composite Partition Keys.
 
 This [Stackoverflow](https://stackoverflow.com/questions/24949676/difference-between-partition-key-composite-key-and-clustering-key-in-cassandra) page provides a nice description of the difference between Partition Keys and Clustering Keys.
+
+## EXAMPLE: 
+[Clustering-Column](./notebooks/Clustering-Column.ipynb)
